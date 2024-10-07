@@ -46,7 +46,7 @@ public class CadastroUsuarioForm extends JFrame {
                 } else {
                     JOptionPane.showMessageDialog(null, "As senhas não coincidem!");
                 }
-            }
+            } 
         });
 
         panel.add(labelUsername);
